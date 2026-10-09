@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34c2c1bf5158b284a9ecad8dde2bc908, type: 3}
+  m_Name: Scout
+  m_EditorClassIdentifier: Assembly-CSharp::ShipTemplate
+  shipName: Scout
+  moveSpeed: 13
+  health: 2
+  shipSprite: {fileID: 1746991664267116445, guid: d3de316c245fca443b23db3fbe6aa144, type: 3}
+  ShootSpeed: 0
